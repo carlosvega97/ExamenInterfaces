@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ExamenInterfaces</string>
+    <string name="LoginName">Name</string>
+    <string name="LoginPassword">Password</string>
+    <string name="LoginSignIn">Sign In</string>
+    <string name="LoginTextView">MrFox</string>
+    <string name="TxtViewInutil" tools:ignore="StringEscaping">don't have an account? Sign up</string>
+    <string name="TxtSplashSreen">Soy el splash</string>
+</resources>
